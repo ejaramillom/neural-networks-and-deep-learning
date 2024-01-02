@@ -9,7 +9,7 @@
 
 ### loss function
 
-- this one is applied to a single example of the datase
+- this one is applied to a single example of the dataset
 
 ### cost function
 
