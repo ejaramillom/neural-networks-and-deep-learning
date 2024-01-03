@@ -6,4 +6,4 @@ the simplest possible neural network is a set of statistical regressions
 
 a 'neuron' is basically a function that returns the price of a house depending on the size.
 
-![image](image_2.png)
+![image](images/image_2.png)
