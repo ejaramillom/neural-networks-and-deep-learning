@@ -7,3 +7,10 @@
 
 - check the implementation in the python repo (21-broadcasting)
 
+## rules of matrix sum and dot product
+
+![image](images/image_28.png)
+
+## broadcasting rules
+
+![image](images/image_29.png)
