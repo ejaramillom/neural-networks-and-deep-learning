@@ -8,3 +8,10 @@
 - to find a logistic regression equation, we search the logarithm of the estimation y^
 
 ![image](images/image_33.png)
+
+## cost function on m examples
+
+- we minimize the logarithmic expression of the loss function L, by eliminating the minus value:
+
+![image](images/image_34.png)
+
