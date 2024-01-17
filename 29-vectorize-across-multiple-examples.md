@@ -20,3 +20,6 @@
 
 - the horizontal values correspond to the values for the training examples
 
+# 30 justification for vectorized implementation
+
+![image](images/image_43.png)
