@@ -8,4 +8,4 @@
 
 ## notation for neural networks
 
-![image](image.png)![image](image.png)![image](image.png)
+![image](images/image_55.png)
